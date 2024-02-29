@@ -3,13 +3,19 @@
     display: flex;
     justify-content: space-between;
     color: white;
+    padding-top: 30px;
+    padding-bottom: 1px;
     
 }
+
+.shopifyLogo{
+    background-color: white;
+}
 .shopify{
-    height: auto; 
-    width: auto; 
-    max-width: 100px; 
-    max-height: 100px;
+    padding-top: 30px; 
+    padding-left: 30px;
+    width: 100px; 
+    height: 60px;
 }
 
 
@@ -53,4 +59,10 @@
 
 .watchShopifyStory{
     padding-left: 1000px;
+}
+
+.worldBox{
+    display: flex;
+    
+
 }
