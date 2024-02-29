@@ -1,0 +1,56 @@
+.mainNavBar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    
+}
+.shopify{
+    height: auto; 
+    width: auto; 
+    max-width: 100px; 
+    max-height: 100px;
+}
+
+
+
+.commerceBox {
+    width: 100vw;
+    height: 800px;
+    background-image: url('https://cdn.shopify.com/b/shopify-brochure2-assets/339113bc828c2c7ab760a434e1703b93.webp?originalWidth=3840&originalHeight=2160&width=1920&height=1080');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    
+}
+
+.commerce{
+    text-align: left;
+    font-size: 60px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-bottom: 70px;
+}
+.bigBrands{
+    text-align: left;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-bottom: 70px;
+
+}
+
+
+
+.startFreeTrialOne{
+    text-align: left;
+    display: flex;
+    font-size: 45px;
+    padding-left: 100px;
+    padding-bottom: 70px;
+
+}
+
+.watchShopifyStory{
+    padding-left: 1000px;
+}
